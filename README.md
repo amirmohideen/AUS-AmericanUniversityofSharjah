@@ -49,7 +49,7 @@ You can find all my work done during my Bachelors in Computer Engineering at Ame
  <li> Technical Writing <br>
 </details>
 
-<details close>
+<details open>
 <summary>Fall 2019</summary>
 <br>
  <ul>
