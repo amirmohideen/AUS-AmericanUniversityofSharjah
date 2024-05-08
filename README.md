@@ -8,7 +8,7 @@ You can find all my work done during my Bachelors in Computer Engineering at Ame
  <li>CS4700 - Virtual & Augmented Reality
 </details>
 
-<details close>
+<details open>
 <summary>Spring 2021</summary>
 <br>
  <ul>
@@ -19,7 +19,7 @@ You can find all my work done during my Bachelors in Computer Engineering at Ame
  <li> SOC220 - American Society <br>
 </details>
 
-<details close>
+<details open>
 <summary>Fall 2020</summary>
 <br>
  <ul>
