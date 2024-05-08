@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 51cb2727ffc3bda48855e4efc41e21b7
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: RevolvingDoor_Base_LOD0
+  - first:
+      1: 100004
+    second: RevolvingDoor_Base_LOD1
+  - first:
+      1: 100006
+    second: RevolvingDoor_Base_LOD2
+  - first:
+      1: 100008
+    second: RevolvingDoor_MainDoor_LOD0
+  - first:
+      1: 100010
+    second: RevolvingDoor_MainDoor_LOD1
+  - first:
+      1: 100012
+    second: RevolvingDoor_MainDoor_LOD2
+  - first:
+      1: 100014
+    second: RevovlingDoor_DoorFrame_LOD0
+  - first:
+      1: 100016
+    second: RevovlingDoor_DoorFrame_LOD1
+  - first:
+      1: 100018
+    second: RevovlingDoor_DoorFrame_LOD2
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: RevolvingDoor_Base_LOD0
+  - first:
+      4: 400004
+    second: RevolvingDoor_Base_LOD1
+  - first:
+      4: 400006
+    second: RevolvingDoor_Base_LOD2
+  - first:
+      4: 400008
+    second: RevolvingDoor_MainDoor_LOD0
+  - first:
+      4: 400010
+    second: RevolvingDoor_MainDoor_LOD1
+  - first:
+      4: 400012
+    second: RevolvingDoor_MainDoor_LOD2
+  - first:
+      4: 400014
+    second: RevovlingDoor_DoorFrame_LOD0
+  - first:
+      4: 400016
+    second: RevovlingDoor_DoorFrame_LOD1
+  - first:
+      4: 400018
+    second: RevovlingDoor_DoorFrame_LOD2
+  - first:
+      23: 2300000
+    second: RevolvingDoor_Base_LOD0
+  - first:
+      23: 2300002
+    second: RevolvingDoor_Base_LOD1
+  - first:
+      23: 2300004
+    second: RevolvingDoor_Base_LOD2
+  - first:
+      23: 2300006
+    second: RevolvingDoor_MainDoor_LOD0
+  - first:
+      23: 2300008
+    second: RevolvingDoor_MainDoor_LOD1
+  - first:
+      23: 2300010
+    second: RevolvingDoor_MainDoor_LOD2
+  - first:
+      23: 2300012
+    second: RevovlingDoor_DoorFrame_LOD0
+  - first:
+      23: 2300014
+    second: RevovlingDoor_DoorFrame_LOD1
+  - first:
+      23: 2300016
+    second: RevovlingDoor_DoorFrame_LOD2
+  - first:
+      33: 3300000
+    second: RevolvingDoor_Base_LOD0
+  - first:
+      33: 3300002
+    second: RevolvingDoor_Base_LOD1
+  - first:
+      33: 3300004
+    second: RevolvingDoor_Base_LOD2
+  - first:
+      33: 3300006
+    second: RevolvingDoor_MainDoor_LOD0
+  - first:
+      33: 3300008
+    second: RevolvingDoor_MainDoor_LOD1
+  - first:
+      33: 3300010
+    second: RevolvingDoor_MainDoor_LOD2
+  - first:
+      33: 3300012
+    second: RevovlingDoor_DoorFrame_LOD0
+  - first:
+      33: 3300014
+    second: RevovlingDoor_DoorFrame_LOD1
+  - first:
+      33: 3300016
+    second: RevovlingDoor_DoorFrame_LOD2
+  - first:
+      43: 4300000
+    second: RevolvingDoor_Base_LOD0
+  - first:
+      43: 4300002
+    second: RevolvingDoor_MainDoor_LOD0
+  - first:
+      43: 4300004
+    second: RevovlingDoor_DoorFrame_LOD0
+  - first:
+      43: 4300006
+    second: RevolvingDoor_Base_LOD1
+  - first:
+      43: 4300008
+    second: RevolvingDoor_MainDoor_LOD1
+  - first:
+      43: 4300010
+    second: RevovlingDoor_DoorFrame_LOD1
+  - first:
+      43: 4300012
+    second: RevolvingDoor_Base_LOD2
+  - first:
+      43: 4300014
+    second: RevolvingDoor_MainDoor_LOD2
+  - first:
+      43: 4300016
+    second: RevovlingDoor_DoorFrame_LOD2
+  - first:
+      205: 20500000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: RevolvingDoor(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RevolvingDoor_Base_LOD0
+      parentName: RevolvingDoor(Clone)
+      position: {x: -0.00000012430438, y: 0.018794613, z: -0.02263821}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RevolvingDoor_MainDoor_LOD0
+      parentName: RevolvingDoor(Clone)
+      position: {x: -0.00011158609, y: 2.607642, z: -0.02276184}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RevovlingDoor_DoorFrame_LOD0
+      parentName: RevolvingDoor(Clone)
+      position: {x: -0.00000025842226, y: 1.6653091, z: -0.02263821}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RevolvingDoor_Base_LOD1
+      parentName: RevolvingDoor(Clone)
+      position: {x: -0.00000017010073, y: 0.018794613, z: -0.025934145}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RevolvingDoor_MainDoor_LOD1
+      parentName: RevolvingDoor(Clone)
+      position: {x: -0.0007151552, y: 1.328004, z: -0.025142705}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RevovlingDoor_DoorFrame_LOD1
+      parentName: RevolvingDoor(Clone)
+      position: {x: -0.00000033202355, y: 1.6653091, z: -0.025934985}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RevolvingDoor_Base_LOD2
+      parentName: RevolvingDoor(Clone)
+      position: {x: -0.00000015701607, y: 0.018794613, z: -0.01662958}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RevolvingDoor_MainDoor_LOD2
+      parentName: RevolvingDoor(Clone)
+      position: {x: -0.00000031403215, y: 2.6203268, z: -0.01662958}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RevovlingDoor_DoorFrame_LOD2
+      parentName: RevolvingDoor(Clone)
+      position: {x: -0.00000032384563, y: 1.6653091, z: -0.01662958}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
